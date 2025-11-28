@@ -1,5 +1,7 @@
 # Bivariate Gaussian Visualizer 📉
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://bivariate-gaussian-visualizer.streamlit.app/)
+
 An interactive web application to explore and visualize **Bivariate (2D) Gaussian Distributions**. Built with [Streamlit](https://streamlit.io/) and [Plotly](https://plotly.com/python/), this tool allows you to manipulate statistical parameters in real-time and observe the resulting geometric changes in 3D surface plots and 2D contour projections.
 
 ## ✨ Features
