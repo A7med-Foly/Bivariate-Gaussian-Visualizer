@@ -37,7 +37,7 @@ An interactive web application to explore and visualize **Bivariate (2D) Gaussia
 Run the Streamlit application:
 
 ```bash
-streamlit run app..py
+streamlit run app.py
 ```
 
 The application will open automatically in your default web browser at `http://localhost:8501`.
